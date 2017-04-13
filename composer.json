@@ -1,0 +1,17 @@
+{
+  "name": "Arzola/Patterns",
+  "description": "Patrones de diseño for dummies",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Oscar Arzola",
+      "email": "os@icode.mx"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Arzola\\": "Arzola/src"
+    }
+  }
+}
