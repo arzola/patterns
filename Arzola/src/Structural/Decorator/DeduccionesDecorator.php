@@ -1,6 +1,6 @@
 <?php namespace Arzola\Structural\Decorator;
 
-class ConDeducciones extends ReciboDecorator
+class DeduccionesDecorator extends DecoratorAbstract
 {
     public function print()
     {

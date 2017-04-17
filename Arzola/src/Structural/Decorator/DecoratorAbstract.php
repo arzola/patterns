@@ -1,7 +1,7 @@
 <?php namespace Arzola\Structural\Decorator;
 
 
-abstract class ReciboDecorator implements ReciboInterface
+abstract class DecoratorAbstract implements ReciboInterface
 {
     private $recibo;
 
